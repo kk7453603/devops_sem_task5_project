@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.sber.pdris</groupId>
-    <artifactId>pdris-app</artifactId>
+    <artifactId>devops_sem_task5_project</artifactId>
     <version>1.0.0</version>
-    <name>pdris-app</name>
+    <name>devops_sem_task5_project</name>
 
     <properties>
         <maven.compiler.release>17</maven.compiler.release>
@@ -33,7 +33,7 @@
     </dependencies>
 
     <build>
-        <finalName>pdris-app</finalName>
+        <finalName>devops_sem_task5_project</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

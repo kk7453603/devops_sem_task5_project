@@ -19,6 +19,6 @@ Allure results будут в `target/allure-results`.
 
 ```bash
 mvn -B clean package
-ls -la target/pdris-app.jar
+ls -la target/devops_sem_task5_project.jar
 ```
 
